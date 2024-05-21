@@ -1,1 +1,1 @@
-# DS-pet-projects
+# Data analytics pet projects
