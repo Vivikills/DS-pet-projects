@@ -8,7 +8,7 @@ cascade_path_fullperson = 'haarcascade_fullbody.xml'
 cascade_path_frontface = 'haarcascade_frontalface_alt.xml'
 
 #Для людей, которые повернуты к камере профильной стороной лица
-cascade_path_profileface = 'lbpcascade_profileface.xml'
+cascade_path_profileface = 'haarcascade_profileface.xml'
 
 #Т.к. на камере плохо видны лица людей, вдобавок подключаем каскад для верхней части тела
 cascade_path_upperbody = 'haarcascade_upperbody.xml'
